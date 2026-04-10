@@ -33,4 +33,4 @@ Thumbs.db
 .idea/
 
 # Cypress binary
-Cypress/
+Cypress/ 
